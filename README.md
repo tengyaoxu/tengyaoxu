@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Tengyao Xu (徐腾耀) 👋
 
-<!--
-**1677983049/1677983049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Master’s student in engineering at Beihang University (BUAA)**
 
-Here are some ideas to get you started:
+📍 Hangzhou, China 🇨🇳<br>
+📧 [tengyaoxu@buaa.edu.cn](mailto:tengyaoxu@buaa.edu.cn)<br>
+🌏 Originally from China
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I study robot navigation at **Beihang University (BUAA)**.
+
+- 🗣️ Vision-and-Language Navigation (VLN)
+- 🧠 Reinforcement Learning (RL)
+- 🏔️ Off-Road Navigation
+- ⚠️ Risk Assessment
+- 🌍 World Models
+- ⚖️ Preference-Based Reward Modeling
+- 📷 Vision-Only SLAM
+
+## 🛠️ Technical Skills
+
+- 🐍 **Programming** · Python
+- 🤖 **Robotics** · ROS 2, RViz2, Isaac ROS cuVSLAM
+- 🌐 **Simulation** · CARLA, Gazebo, Isaac Sim
+- 🐳 **Containers** · Docker
